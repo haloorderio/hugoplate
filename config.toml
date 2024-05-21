@@ -1,0 +1,4 @@
+baseURL = "https://haloorderio.github.io/hugoplate/"
+languageCode = "en-us"
+title = "My Hugo Plate Site"
+theme = "hugoplate"
